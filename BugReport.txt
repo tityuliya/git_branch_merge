@@ -1,0 +1,8 @@
+Bug_report
+1. Title
+2. Summary
+3. Precondition
+4. Steps To Reproduce
+5. Expected Result
+6. Actual Result
+7. Attachments
