@@ -10,6 +10,8 @@ ___GitHub. HW_2___
 - Mobile testing
 
 ```
+git clone https://github.com/tityuliya/git_branch_merge.git
+
 git branch Postman
 git branch Jmeter
 git branch CheckLists
